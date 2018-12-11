@@ -4,8 +4,8 @@ Simple webpage, to show resume.
 
 ## URL
 
-Hosted on github, with personal url "Jathurson.com/Resume"
-[Live Here](https://www.Jathurson.com/Resume)
+* Hosted on github, with personal url "Jathurson.com/resume"
+* [Live Here](https://www.Jathurson.com/resume)
 
 ## Built With
 
@@ -16,5 +16,5 @@ Hosted on github, with personal url "Jathurson.com/Resume"
 
 ## Authors
 
-* **Jathurson Subachandran** *
+* **Jathurson Subachandran**
 
