@@ -35,7 +35,7 @@
 
 ## Referee
 
-* Jamesha Subachandran
+*
 
 ## HERE
 * Hosted on github, with personal url "Jathurson.com/resume"
